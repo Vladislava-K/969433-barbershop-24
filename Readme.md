@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Владислава Калюга](https://up.htmlacademy.ru/htmlcss/24/user/969433).
+* Наставник: [Евгения Зорина](https://htmlacademy.ru/profile/sanguis).
 
 ---
 
